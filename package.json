@@ -1,0 +1,19 @@
+{
+  "name": "liri_bot",
+  "version": "1.0.0",
+  "description": "Node command line Lnaguage Interpretation and Recognition Interface",
+  "main": "LIRI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sajkani/LIRI.git"
+  },
+  "author": "sajkani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sajkani/LIRI/issues"
+  },
+  "homepage": "https://github.com/sajkani/LIRI#readme"
+}
