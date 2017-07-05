@@ -1,0 +1,161 @@
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Wed May 24 04:30:50 +0000 2017
+Tweet content: Exciting and scary at the same time... https://t.co/G0xP8qze4U
+------------------------
+Created on: Tue May 23 03:06:59 +0000 2017
+Tweet content: Excited to be speaking at @AllThingsOpen 2017! @GinnyGhezzo thank you for your support! All my fans from 2016, time to get tickets ;-);-)!!!
+------------------------
+Created on: Wed Mar 15 03:48:16 +0000 2017
+Tweet content: RT @CNN: Each slice of this bread reveals colorful illustrations from animals to a child's doodles. Meet the mom behind them https://t.co/P…
+------------------------
+Created on: Thu Feb 23 09:20:40 +0000 2017
+Tweet content: @kontrol_theory I disagree.The article implies that programming should not be treated as a new fad or the flavor of the season.That's all.
+------------------------
+Created on: Thu Feb 16 08:24:13 +0000 2017
+Tweet content: @kontrol_theory The point of the article is to point out that there may be other more suitable career paths that a person may enjoy.
+------------------------
+Created on: Thu Feb 16 08:22:36 +0000 2017
+Tweet content: @kontrol_theory You are correct.But there are many challenges to that career. Unless you're passionate, you may just end up too frustrated.
+------------------------
+Created on: Sun Feb 12 17:25:27 +0000 2017
+Tweet content: The Joel Test: 12 Steps to Better Code
+
+https://t.co/S3o1DeqysZ
+------------------------
+Created on: Sun Feb 12 17:23:30 +0000 2017
+Tweet content: “Don’t Pursue Programming if You Aren’t Passionate About It” by @ebbv https://t.co/UiOTLVoeN4
+------------------------
+Created on: Thu Nov 24 12:20:47 +0000 2016
+Tweet content: RT @codeorg: Congrats to Margaret Hamilton, 2016 Presidential Medal of Freedom recipient. She wrote the code that helped the US reach the m…
+------------------------
+Created on: Thu Nov 24 06:29:53 +0000 2016
+Tweet content: RT @StevenMJohnston: #Blockchain basics and opportunities w/ @_angrbrd #DZone #BigData https://t.co/Vdwx520eAz https://t.co/zups5s5mCQ
+------------------------
+Created on: Sun Nov 20 06:35:32 +0000 2016
+Tweet content: RT @LogicalDan: Microsoft fortifies commitment to #OpenSource, and becomes #LinuxFoundation Platinum member!  https://t.co/whh1wBfGnG
+------------------------
+Created on: Wed Nov 16 16:15:54 +0000 2016
+Tweet content: DZone posted the interview they had with me!! Blockchain Basics and Opportunities With Anna Derbakova https://t.co/E2VCwtHjIe via @DZone
+------------------------
+Created on: Tue Nov 15 23:06:32 +0000 2016
+Tweet content: RT @CNN: Nike has announced its self-lacing shoe will hit stores in New York City - and they're all yours for just $720 https://t.co/KUKN8x…
+------------------------
+Created on: Sun Nov 13 16:57:45 +0000 2016
+Tweet content: RT @TechCrunch: Amazon sells out of the NES Classic Edition in (null) seconds https://t.co/xTdXV893Ar
+------------------------
+Created on: Tue Nov 08 17:01:49 +0000 2016
+Tweet content: RT @cocoacinnamon: Come in with your I voted sticker tomorrow and get extra espresso free in any espresso or chocolate based drink! Tell yo…
+------------------------
+Created on: Sat Oct 29 05:23:09 +0000 2016
+Tweet content: "Speaking On developerWorks TV At All Things Open 2016" https://t.co/3CMrlh2CoE on @LinkedIn
+------------------------
+Created on: Sat Oct 29 05:06:28 +0000 2016
+Tweet content: "Hyperledger At All Things Open 2016" https://t.co/pbKoPartH7 on @LinkedIn
+------------------------
+Created on: Sat Oct 29 04:37:19 +0000 2016
+Tweet content: Check me out on developerWorks TV!!! https://t.co/L4Oy1JERBZ
+------------------------
+Created on: Sat Oct 29 04:32:02 +0000 2016
+Tweet content: Updated Hyperledger Fabric tutorial for Mac and added All Things Open 2016 presentation! Please get them here: https://t.co/Sk2yYVcSgS!
+------------------------
+Created on: Fri Oct 28 22:48:57 +0000 2016
+Tweet content: RT @amershow: @StacieWaleyko @GinnyGhezzo See @_angrbrd 's presentation at https://t.co/tPpQHQX3fx
+------------------------
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Tue Jul 04 14:25:56 +0000 2017
+Tweet content: API Testing
+------------------------
+Created on: Tue Jul 04 14:25:52 +0000 2017
+Tweet content: Test Tweet 2
+------------------------
+Created on: Tue Jul 04 14:25:42 +0000 2017
+Tweet content: Test Tweet 1
+------------------------
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Tue Jul 04 14:25:56 +0000 2017
+Tweet content: API Testing
+------------------------
+Created on: Tue Jul 04 14:25:52 +0000 2017
+Tweet content: Test Tweet 2
+------------------------
+Created on: Tue Jul 04 14:25:42 +0000 2017
+Tweet content: Test Tweet 1
+------------------------
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Tue Jul 04 14:25:56 +0000 2017
+Tweet content: API Testing
+------------------------
+Created on: Tue Jul 04 14:25:52 +0000 2017
+Tweet content: Test Tweet 2
+------------------------
+Created on: Tue Jul 04 14:25:42 +0000 2017
+Tweet content: Test Tweet 1
+------------------------
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Tue Jul 04 14:25:56 +0000 2017
+Tweet content: API Testing
+------------------------
+Created on: Tue Jul 04 14:25:52 +0000 2017
+Tweet content: Test Tweet 2
+------------------------
+Created on: Tue Jul 04 14:25:42 +0000 2017
+Tweet content: Test Tweet 1
+------------------------
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Tue Jul 04 14:25:56 +0000 2017
+Tweet content: API Testing
+------------------------
+Created on: Tue Jul 04 14:25:52 +0000 2017
+Tweet content: Test Tweet 2
+------------------------
+Created on: Tue Jul 04 14:25:42 +0000 2017
+Tweet content: Test Tweet 1
+------------------------
+
