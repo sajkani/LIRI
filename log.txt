@@ -22,3 +22,27 @@ Star Wars: Episode IV - A New Hope
 Movie Response:
 
 Star Wars: Episode VI - Return of the Jedi
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+My Recent Tweets:
+------------------------
+
+Created on: Tue Jul 04 14:25:56 +0000 2017
+Tweet content: API Testing
+------------------------
+Created on: Tue Jul 04 14:25:52 +0000 2017
+Tweet content: Test Tweet 2
+------------------------
+Created on: Tue Jul 04 14:25:42 +0000 2017
+Tweet content: Test Tweet 1
+------------------------
+
+Movie Response:
+
+The Lion King
+Movie Response:
+
+Uncle Buck

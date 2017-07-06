@@ -8,10 +8,6 @@ let input = process.argv[2];
 let requestID = process.argv[3];
 const keys = require('./keys.js');
 var twitterKeys = keys.twitterKeys;
-var cmdArgs = process.argv;
-var liriCommand = cmdArgs[2];
-var liriArg = '';
-
 
 //switch for different inputs
 switch (input) {
