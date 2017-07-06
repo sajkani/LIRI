@@ -1,3 +1,4 @@
+//declare variables
 let spotify = require('spotify');
 let twitter = require('twitter');
 let request = require('request');
@@ -11,7 +12,7 @@ var liriCommand = cmdArgs[2];
 var liriArg = '';
 
 
-
+//switch for different inputs
 switch (input) {
 
 	case "my-tweets":
@@ -30,9 +31,10 @@ switch (input) {
 	random();
 	break;
 }
-
+//logging
 log();
 
+//twitter function to return 20 most recent tweets from my dev acount 'sajkaniDev'
 function getTweets() {
     fs.appendFile('./log.txt', 'User Command: node liri.js my-tweets\n\n', (err) => {
         if (err) throw err;
@@ -70,21 +72,13 @@ function getTweets() {
     });
 }
 
+//spotiy call functiont to get song information
 function getSongs( songName ) {
 
 
-	spotify.get
-
-	spotify.search({ type: 'track', query: songName }, function(err, data) {
-		console.log(data);
-    if ( err ) {
-        console.log('Error occurred: ' + err);
-        return;
-    }
-
-});
 }
 
+//OMDB function to get movie information
 function getMovies( movieTitle ) {
 
 	if (!movieTitle) {
@@ -125,6 +119,8 @@ function getMovies( movieTitle ) {
 
 }
 
+
+//runs random output based on do-what-it-says input
 function random() {
 
 	fs.readFile("random.txt", "utf8", function(err, data) {
@@ -133,24 +129,7 @@ function random() {
 		input = data[0].trim();
 		requestID = data[1].trim();
 
-		switch (input) {
 
-			case "my-tweets":
-			getTweet();
-			break;
-
-			case "spotify-this-song":
-			getSongs( requestID );
-			break;
-
-			case "movie-this":
-			getMovies( requestID );
-			break;
-
-			case "do-what-it-says":
-			random();
-			break;
-		}
 	});
 }
 
