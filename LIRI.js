@@ -1,4 +1,5 @@
 //declare variables
+//using some ES6
 let spotify = require('spotify');
 let twitter = require('twitter');
 let request = require('request');
@@ -31,8 +32,7 @@ switch (input) {
 	random();
 	break;
 }
-//logging
-log();
+
 
 //twitter function to return 20 most recent tweets from my dev acount 'sajkaniDev'
 function getTweets() {
@@ -72,7 +72,7 @@ function getTweets() {
     });
 }
 
-//spotiy call functiont to get song information
+//spotiy call function to get song information
 function getSongs( songName ) {
 
 
@@ -113,14 +113,18 @@ function getMovies( movieTitle ) {
         console.log("Rotten Tomatoes URL: " + movie.tomatoURL);
         console.log(" ");
         console.log(" ");
-                
+       
 
+    fs.appendFile('./log.txt', 'Movie Response:\n\n' + movie.Title + '\n', (err) => {
+                if (err) throw err;
+                
+            });
+        
 	});
 
 }
 
-
-//runs random output based on do-what-it-says input
+//returns movie-this,"Uncle Buck" based on random.txt as I could not get Spotify working
 function random() {
 
 	fs.readFile("random.txt", "utf8", function(err, data) {
@@ -129,17 +133,23 @@ function random() {
 		input = data[0].trim();
 		requestID = data[1].trim();
 
+		switch (input) {
 
+			case "my-tweets":
+			getTweet();
+			break;
+
+			case "spotify-this-song":
+			getSongs( requestID );
+			break;
+
+			case "movie-this":
+			getMovies( requestID );
+			break;
+
+			case "do-what-it-says":
+			random();
+			break;
+		}
 	});
-}
-
-function log() {
-
-	if (!process.argv[3]) {
-		fs.appendFile("log.txt", process.argv[2] + ", ");
-	} else {
-
-	fs.appendFile("log.txt", process.argv[2] + " " + process.argv[3] + ", ");
-
-	}
 }

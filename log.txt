@@ -1,59 +1,6 @@
-movie-this Star Wars, movie-this The Matrix, movie-this my-tweets, User Command: node liri.js my-tweets
-
-my-tweets, LIRI Response:
-
-------------------------
-User Tweets:
-------------------------
-
-Created on: Tue Jul 04 14:25:56 +0000 2017
-Tweet content: API Testing
-------------------------
-Created on: Tue Jul 04 14:25:52 +0000 2017
-Tweet content: Test Tweet 2
-------------------------
-Created on: Tue Jul 04 14:25:42 +0000 2017
-Tweet content: Test Tweet 1
-------------------------
-
 User Command: node liri.js my-tweets
 
-my-tweets, LIRI Response:
-
-------------------------
-User Tweets:
-------------------------
-
-Created on: Tue Jul 04 14:25:56 +0000 2017
-Tweet content: API Testing
-------------------------
-Created on: Tue Jul 04 14:25:52 +0000 2017
-Tweet content: Test Tweet 2
-------------------------
-Created on: Tue Jul 04 14:25:42 +0000 2017
-Tweet content: Test Tweet 1
-------------------------
-
-movie-this Star Wars, movie-this, movie-this, User Command: node liri.js my-tweets
-
-my-tweets, LIRI Response:
-
-------------------------
-My Recent Tweets:------------------------
-
-Created on: Tue Jul 04 14:25:56 +0000 2017
-Tweet content: API Testing
-------------------------
-Created on: Tue Jul 04 14:25:52 +0000 2017
-Tweet content: Test Tweet 2
-------------------------
-Created on: Tue Jul 04 14:25:42 +0000 2017
-Tweet content: Test Tweet 1
-------------------------
-
-User Command: node liri.js my-tweets
-
-my-tweets, LIRI Response:
+LIRI Response:
 
 ------------------------
 My Recent Tweets:
@@ -69,40 +16,9 @@ Created on: Tue Jul 04 14:25:42 +0000 2017
 Tweet content: Test Tweet 1
 ------------------------
 
-User Command: node liri.js my-tweets
+Movie Response:
 
-my-tweets, LIRI Response:
+Star Wars: Episode IV - A New Hope
+Movie Response:
 
-------------------------
-My Recent Tweets:
-------------------------
-
-Created on: Tue Jul 04 14:25:56 +0000 2017
-Tweet content: API Testing
-------------------------
-Created on: Tue Jul 04 14:25:52 +0000 2017
-Tweet content: Test Tweet 2
-------------------------
-Created on: Tue Jul 04 14:25:42 +0000 2017
-Tweet content: Test Tweet 1
-------------------------
-
-movie-this Star Wars, User Command: node liri.js my-tweets
-
-my-tweets, LIRI Response:
-
-------------------------
-My Recent Tweets:
-------------------------
-
-Created on: Tue Jul 04 14:25:56 +0000 2017
-Tweet content: API Testing
-------------------------
-Created on: Tue Jul 04 14:25:52 +0000 2017
-Tweet content: Test Tweet 2
-------------------------
-Created on: Tue Jul 04 14:25:42 +0000 2017
-Tweet content: Test Tweet 1
-------------------------
-
-movie-this Indiana Jones, 
+Star Wars: Episode VI - Return of the Jedi
